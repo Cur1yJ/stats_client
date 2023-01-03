@@ -20,8 +20,8 @@ GEM
       oauth2 (~> 1.0)
     hashie (3.6.0)
     highline (1.6.20)
-    httparty (0.12.0)
-      json (~> 1.8)
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     jeweler (2.0.0)
       builder
@@ -32,8 +32,9 @@ GEM
       nokogiri (>= 1.5.10)
       rake
       rdoc
-    json (1.8.1)
+    json (1.8.6)
     jwt (2.2.1)
+    mini_mime (1.1.2)
     mini_portile2 (2.4.0)
     multi_json (1.13.1)
     multi_xml (0.6.0)
